@@ -1,7 +1,7 @@
 import { SyntheticEvent } from "react";
 
 const url =
-  "https://script.google.com/macros/s/AKfycbzRxipw2hPEiKl57uly18VtRQz5TFOosoYFoRzX4JkHwtQiODmSXUJDrHc9Dbhhs8Ls/exec";
+  "GOOGLE_SHEET_SCRIPT_URL";
 
 const App = () => {
   const handleSubmit = (e: SyntheticEvent) => {
